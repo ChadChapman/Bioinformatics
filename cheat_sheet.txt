@@ -1,0 +1,5 @@
+enter conda r env => $source activate my-r-env
+
+drop datasets into: /UWT/TCSS588/notebooks
+
+
